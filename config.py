@@ -3,7 +3,7 @@ BOT_TOKEN = "6552501089:AAGEBl7iDHwtnGsLOMvMexaYQRMftFotBCA"
 OWNER_ID = 5360075159
 TELEGRAM_API = 18247780
 TELEGRAM_HASH = "b517fd5fd65ccc571b35aee9a1a67bb8"
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://nomanta:thebolabela@cluster0.ecervpg.mongodb.net/?appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
